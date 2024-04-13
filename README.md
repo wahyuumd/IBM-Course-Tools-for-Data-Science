@@ -1,10 +1,10 @@
-# IBM Course: Tools for Data Science
+### IBM Course: Tools for Data Science
 
 There are a total of 25 points possible for this final project.
 
 The grade will be based on the following Exercises:
 
-Exercise 1: Create a Jupyter Notebook
+Exercise 1 -  Create a Jupyter Notebook
 
 Exercise 2 - Create a markdown cell with the title of the notebook. (1 pt)
 
